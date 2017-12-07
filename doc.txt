@@ -1,0 +1,28 @@
+EnemyConfig: 
+- Enemytypen mit jeweiligen Eigenschaften
+
+Leveleditor
+- Levelablauf (welche Enemytypen in welcher Reihenfolge?)
+
+Neue Tower:   
+- PoisonTower
+- SplashTower
+- LaserTower
+- RangeBooster-Tower
+- DamageBooster-Tower
+- Geldquelle-Tower
+
+Optimierung:
+- Paint-Methoden (Images zwischenspeichern und nicht jedes Mal neu zeichnen)...
+
+Neues Design:
+- Google Maps (Satellite) einbinden, Straßen drauf zeichnen usw...
+
+
+OK: - Infos zu Türmen
+OK: - Turmanzahl
+OK: - besseren GUI (links angeordnet, bessere TowerInfos)
+OK: Enemy-Find-Strategien: (pro Tower festlegbar) -> in neuen GUI
+OK: - first- last- nächster- weitester- stärkster- schwächster- schnellster- langsamster
+OK: - Level speichern   
+OK: - Turm verkaufen

@@ -1,0 +1,8 @@
+D:\dev\TowDef\bin\Debug\TowDef.exe
+D:\dev\TowDef\bin\Debug\TowDef.pdb
+D:\dev\TowDef\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\dev\TowDef\obj\x86\Debug\TowDef.exe
+D:\dev\TowDef\obj\x86\Debug\TowDef.pdb
+D:\dev\TowDef\obj\x86\Debug\TowDef.csproj.GenerateResource.Cache
+D:\dev\TowDef\obj\x86\Debug\TowDef.FrmMain.resources
+D:\dev\TowDef\obj\x86\Debug\TowDef.FrmLvlEdit.resources
